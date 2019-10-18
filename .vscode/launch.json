@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloServlet",
+            "request": "launch",
+            "mainClass": "org.zerock.HelloServlet",
+            "projectName": "seung"
+        }
+    ]
+}
